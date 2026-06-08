@@ -4,7 +4,10 @@ Projeto de estudo com o objetivo de explorar o poder de IAs de aprendizagem
 <h3>Assunto:</h3>Guia de estudo para aprender C# com foco em uso no Unity para programação de jogos 
 <h3>Fontes:</h3> 
 
-  Documentação oficial: https://docs.unity3d.com/Manual/index.html
+  * [**Documentação oficial**](https://docs.unity3d.com/Manual/index.html)
+  * [**Livro 1**](https://www.academia.edu/31466532/C_Language_Specification)
+  * [**Livro 2**](https://www.academia.edu/11201938/Pro_Unity_Game_Development_with_C)
+  * [**Livro 3**]()
   
   PDFs: 1 - https://library.bntu.by/wp-content/uploads/2026/01/sod-4.pdf
   
