@@ -3,6 +3,7 @@ Projeto de estudo com o objetivo de explorar a capacidade da IA de aprendizagem 
 * Teste das capacidades de raciocínio e interpretação com base nos conteúdos disponibilizados
 * Miniguia de estudo (Produzido pelo NotebookLM)
 * Glossário para termos técnicos (Produzido pelo NotebookLM)
+* Disponibilização de prompts reutilizáveis
 
 <h3>Assunto: Guia de estudo para aprender C# com foco em uso no Unity para programação de jogos </h3>
 <h3>Fontes:</h3> 
