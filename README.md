@@ -7,7 +7,7 @@ Projeto de estudo com o objetivo de explorar o poder de IAs de aprendizagem
   * [**Documentação oficial**](https://docs.unity3d.com/Manual/index.html)
   * [**Livro 1**](https://www.academia.edu/31466532/C_Language_Specification)
   * [**Livro 2**](https://www.academia.edu/11201938/Pro_Unity_Game_Development_with_C)
-  * [**Livro 3**]()
+  * [**Livro 3**](/Livros_Fontes/game-programming-with-unity-and-c-a-complete-beginners-guide.pdf)
   
   PDFs: 1 - https://library.bntu.by/wp-content/uploads/2026/01/sod-4.pdf
   
